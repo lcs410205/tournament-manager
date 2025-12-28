@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TournamentManager</string>
+    <string name="title_activity_main">TournamentManager</string>
+    <string name="package_name">com.lcs.tournament</string>
+    <string name="custom_url_scheme">com.lcs.tournament</string>
+</resources>
